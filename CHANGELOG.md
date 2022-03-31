@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/miaoxing/mxjs-m-empty/compare/v0.1.3...v0.1.4) (2022-03-31)
+
+
+### Features
+
+* 更新 `fower` 到 `^1.70.0` ([36018a8](https://github.com/miaoxing/mxjs-m-empty/commit/36018a8b7f828675191d9f2ca7d1fff0c7c06c08))
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-m-empty/compare/v0.1.2...v0.1.3) (2022-02-05)
 
 
