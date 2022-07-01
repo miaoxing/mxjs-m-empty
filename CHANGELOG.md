@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-m-empty/compare/v0.1.5...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([4b7a37f](https://github.com/miaoxing/mxjs-m-empty/commit/4b7a37f26e37849f848efa52944875832949bd1f))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.1.5](https://github.com/miaoxing/mxjs-m-empty/compare/v0.1.4...v0.1.5) (2022-06-01)
 
 
