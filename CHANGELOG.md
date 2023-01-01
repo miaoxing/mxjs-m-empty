@@ -1,3 +1,18 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-m-empty/compare/v1.0.1...v1.1.0) (2023-01-01)
+
+
+### Features
+
+* 更新 `fower` 到 `~1.75.0` ([c792fa1](https://github.com/miaoxing/mxjs-m-empty/commit/c792fa178c0e8258747ed9a19f63d676230ccd10))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.3` to `8.2.0`
+
 ## [1.0.1](https://github.com/miaoxing/mxjs-m-empty/compare/v1.0.0...v1.0.1) (2022-08-02)
 
 
