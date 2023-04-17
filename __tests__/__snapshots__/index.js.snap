@@ -3,7 +3,7 @@
 exports[`Empty basic 1`] = `
 <div>
   <taro-view-core
-    style="flex-direction: column; color: rgb(113, 113, 122); justify-content: center; align-items: center; display: flex;"
+    style="flex-direction: column; color: rgb(107, 114, 128); justify-content: center; align-items: center; display: flex;"
   >
     <taro-view-core
       class="mx-empty-image"
